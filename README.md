@@ -1,6 +1,12 @@
 # counter
+A new Flutter project.<br/>
 
-A new Flutter project.
+
+
+https://user-images.githubusercontent.com/76262148/145063068-6570c83f-e1bb-4c1f-94f4-fdb56724e1a2.mp4
+
+
+
 
 ## Getting Started
 
