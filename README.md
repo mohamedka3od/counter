@@ -1,6 +1,6 @@
 # counter
-A new Flutter project.
-<img src= "https://user-images.githubusercontent.com/76262148/145060342-f0033a63-67d7-49a2-a42e-624030387d23.jpg" height="50%" width="50%">
+A new Flutter project.<\p>
+<img src= "https://user-images.githubusercontent.com/76262148/145060342-f0033a63-67d7-49a2-a42e-624030387d23.jpg" height="25%" width="25%">
 
 ## Getting Started
 
