@@ -1,5 +1,5 @@
 # counter
-A new Flutter project.<\p>
+A new Flutter project.<br/>
 <img src= "https://user-images.githubusercontent.com/76262148/145060342-f0033a63-67d7-49a2-a42e-624030387d23.jpg" height="25%" width="25%">
 
 ## Getting Started
