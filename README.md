@@ -1,6 +1,6 @@
 # counter
 A new Flutter project.
-![photo_2021-12-07_17-40-53](https://user-images.githubusercontent.com/76262148/145060342-f0033a63-67d7-49a2-a42e-624030387d23.jpg)
+![photo_2021-12-07_17-40-53](https://user-images.githubusercontent.com/76262148/145060342-f0033a63-67d7-49a2-a42e-624030387d23.jpg){:height="50%" width="50%"}
 
 ## Getting Started
 
